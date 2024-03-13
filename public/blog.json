@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/60qQ1Wy/37.jpg",
+        "title": "The Art of Programming",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/8zfmYkj/09-unsplash.png",
+        "posted_date": "2024-03-14",
+        "reading_time": 10,
+        "hashtags": [
+            "programming",
+            "coding",
+            "software"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/hgr1Tcv/38.jpg",
+        "title": "The Power of Now",
+        "author": "Eckhart Tolle",
+        "author_img": "https://i.ibb.co/G0h1mPB/11-unsplash.png",
+        "posted_date": "2024-03-13",
+        "reading_time": 15,
+        "hashtags": [
+            "mindfulness",
+            "meditation",
+            "self-help"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/cNhTxpw/02-unsplash.png",
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "author_img": "https://example.com/authors/douglas_adams.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 20,
+        "hashtags": [
+            "science fiction",
+            "humor",
+            "adventure"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/fC8GdPx/40.jpg",
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "author_img": "https://i.ibb.co/5MmjX3b/05-unsplash.png",
+        "posted_date": "2024-03-11",
+        "reading_time": 18,
+        "hashtags": [
+            "business",
+            "entrepreneurship",
+            "startup"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/NFtdBbQ/41.jpg",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "author_img": "https://i.ibb.co/LpCLJ6t/04-unsplash.png",
+        "posted_date": "2024-03-10",
+        "reading_time": 25,
+        "hashtags": [
+            "history",
+            "anthropology",
+            "philosophy"
+        ]
+    }
+]
