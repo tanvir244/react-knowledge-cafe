@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "cover": "https://i.ibb.co/60qQ1Wy/37.jpg",
+        "cover": "https://i.ibb.co/xF1gr4D/39.jpg",
         "title": "The Art of Programming",
         "author": "John Smith",
         "author_img": "https://i.ibb.co/8zfmYkj/09-unsplash.png",
@@ -29,10 +29,10 @@
     },
     {
         "id": 3,
-        "cover": "https://i.ibb.co/cNhTxpw/02-unsplash.png",
+        "cover": "https://i.ibb.co/NFtdBbQ/41.jpg",
         "title": "The Hitchhiker's Guide to the Galaxy",
         "author": "Douglas Adams",
-        "author_img": "https://example.com/authors/douglas_adams.jpg",
+        "author_img": "https://i.ibb.co/cNhTxpw/02-unsplash.png",
         "posted_date": "2024-03-12",
         "reading_time": 20,
         "hashtags": [
@@ -57,7 +57,7 @@
     },
     {
         "id": 5,
-        "cover": "https://i.ibb.co/NFtdBbQ/41.jpg",
+        "cover": "https://i.ibb.co/60qQ1Wy/37.jpg",
         "title": "Sapiens: A Brief History of Humankind",
         "author": "Yuval Noah Harari",
         "author_img": "https://i.ibb.co/LpCLJ6t/04-unsplash.png",
